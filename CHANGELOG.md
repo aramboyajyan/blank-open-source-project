@@ -1,8 +1,8 @@
 # Project changelog
 
-### Date
+### Date of changes
 
-Explanation
+Detailed description.
 
 <hr>
 
