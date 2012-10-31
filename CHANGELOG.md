@@ -2,7 +2,7 @@
 
 ### Date of changes
 
-Detailed description.
+Initial release.
 
 <hr>
 
