@@ -1,5 +1,5 @@
 {
-  "name": "topsitemakers/project",
+  "name": "topsitemakers/package",
   "require": {
     "php": ">=5.2.0"
   }
