@@ -1,0 +1,6 @@
+{
+  "name": "topsitemakers/project",
+  "require": {
+    "php": ">=5.2.0"
+  }
+}
