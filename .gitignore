@@ -153,11 +153,14 @@ pip-log.txt
 .coverage
 .tox
 
-#Translations
+# Translations
 *.mo
 
-#Mr Developer
+# Mr Developer
 .mr.developer.cfg
 
 # Mac crap
 .DS_Store
+
+# Custom ignores
+node_modules
